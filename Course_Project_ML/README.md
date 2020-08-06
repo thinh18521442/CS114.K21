@@ -30,7 +30,7 @@ Sau đó run file server.py để config một máy chủ ở local host
 ```
 python server.py
 ```
-ctrl + click the link local this program output to use.
+ctrl + click the link local (like http://127.0.0.1:5000) this program output to use. </br>
 <img src="https://github.com/thinh18521442/Course_Project_AI/blob/master/readme/Annotation%202020-07-01%20213847.png" width="600" height="200">
 
 ## :clap: Hoàn thành!
